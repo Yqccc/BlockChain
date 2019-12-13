@@ -1,0 +1,1 @@
+[{"constant":false,"inputs":[{"name":"a","type":"uint256"}],"name":"mutiply","outputs":[{"name":"result","type":"uint256"}],"payable":false,"stateMutability":"nonpayable","type":"function"}]
